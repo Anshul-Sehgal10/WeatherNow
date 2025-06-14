@@ -90,3 +90,13 @@ This project was created to practice real-world full-stack development with real
 
 ### 🤝 Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
+
+---
+
+## 📝 Data Source & Licensing
+
+Weather data is provided by [OpenWeatherMap](https://openweathermap.org/) and used under the  
+[Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)  
+and the [Open Database License (ODbL)](https://opendatacommons.org/licenses/odbl/1-0/).
+
+> This app is not endorsed or certified by OpenWeatherMap.
